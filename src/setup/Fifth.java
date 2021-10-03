@@ -1,6 +1,6 @@
 package setup;
 
-public class fifth {
+public class Fifth {
 
     // this might cause conflict
 }
